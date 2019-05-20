@@ -533,4 +533,4 @@ bot.on('message', function(message) {
     }
 })
 
-bot.login('NTc4NTA0NTI0OTIzMjczMjE2.XN0mlA.U4IBUzLSavMPJ-mXbigLCLcidFw');
+bot.login('process.env.TOKEN');
